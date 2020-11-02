@@ -7,4 +7,5 @@ dependencies:
   - matplotlib
   - ipywidgets
   - scipy
+  - mpmath
 prefix: /home/robbie/anaconda3/envs/IBA
