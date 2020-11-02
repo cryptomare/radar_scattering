@@ -2,7 +2,6 @@ import math
 import numpy as np
 from cmath import sqrt
 from scipy.integrate import dblquad
-import tqdm
 import mpmath
 from utils import roughness_spectrum, xpol_integralfunc_vec
 import utils
