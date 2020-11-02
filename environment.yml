@@ -6,4 +6,5 @@ dependencies:
   - pandas
   - matplotlib
   - ipywidgets
+  - scipy
 prefix: /home/robbie/anaconda3/envs/IBA
