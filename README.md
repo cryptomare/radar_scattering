@@ -1,8 +1,8 @@
 # Interactive plots of radar scattering.
 
-This binder is currently made of two notebooks, one concerning volume scattering and one concerning surface scattering.
+This binder is currently made of three notebooks, one concerning volume scattering, one concerning surface scattering and another discussing a model that includes them both.
 
-In future I intend to add two more: one on the single-layer RT model SSRTR (Ulaby & Long, 2014) and one on the altimetric functionality of SMRT.
+In future I intend to add two more, on the altimetric functionality of SMRT.
 
 To spin up a jupyter notebook in the cloud and run these notebooks, click the button below:
 
