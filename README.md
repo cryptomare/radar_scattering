@@ -15,3 +15,7 @@ To go straight to the surface scattering notebook, click here:
 To go straight to the volume scattering notebook, click here:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robbiemallett/radar_scattering/main?filepath=IBA_explore.ipynb)
+
+To go straight to the SSRTR model notebook, click here:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robbiemallett/radar_scattering/main?filepath=SSRTR_explore.ipynb)
